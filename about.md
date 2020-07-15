@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a 24 year old millennial who has just started adulting and realized how woefully unprepared I am. I've gone through all the stages that anyone fresh out of school has done: spending money recklessly only to find yourself going back to the good old college days of the ramen dinners. Rinse and repeat. However, I've realized that there must be more to life. Like saving enough money in my 401k that way I can brag to others that I can live on the more expensive ramen during retirement.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Reasoning for Starting this Blog
 
-There are currently two themes built on Poole:
+A couple reasons motivated me to start this blog. The major reason was for myself. To have a way to document some of the things that I found while trying to become financially literate and to have a place that I can refer to. Another reason was looking around at my friends and family, many of them not knowing the difference between a Roth IRA or a 401k, not being able to calcuate the worth of a bond, not knowing what a covered call is (hint: it's not when you make your parents pay for all your calls), etc. So this is me trying to do my part to make sure that people can retire and not have to work in their 70+ because they don't have any retirement funds and Social Security ran out.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Contact me
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Feel free to email asking questions or blog topic suggests.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[financiallymillennial@gmail.com](mailto:financiallymillennial@gmail.com)
